@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:title="Search Path"
+        android:key="folderPicker"
+        android:summary="Folder to search similar images"
+        />
+    <EditTextPreference android:title="Threshold(%) "
+        android:key="threshold"
+        android:summary="Threshold of similarity in percent"
+        android:numeric="integer"
+        android:maxLength="2"
+        >
+    </EditTextPreference>
+</PreferenceScreen>
