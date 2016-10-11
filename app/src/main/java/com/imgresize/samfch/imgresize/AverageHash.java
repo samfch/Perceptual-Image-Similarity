@@ -10,7 +10,11 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 /**
- * Created by samfch on 8/1/16.
+ * Created by samfch (samfch@unissula.ac.id) on 8/1/16.
+ * Don't delete this comment.
+ *
+ * This algorithm is based on article here : http://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html
+ *
  */
 class AverageHash  {
 
