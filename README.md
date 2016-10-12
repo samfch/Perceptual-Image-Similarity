@@ -10,4 +10,4 @@ Before running search, do this following in app settings:
 2. Set threshold (0 to 100)  
 3. Browse test image the search (find similar)  
 
->**Note:** Some of the code were collected from the internet, if You found that my code belongs to you please let me know..so I can add You in the credits
+>**Note:** Some of the code were collected from the internet, if You found that some code belongs to you please let me know..so I can add You in the credits
